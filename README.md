@@ -28,6 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 -Configure SLA
 
+-Configure Help Topics
+
 <h2>Configuration Steps</h2>
 
 Configure Roles:
@@ -49,4 +51,5 @@ Configure Users/Agents:
 Configure SLA:
 ![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/7d7f41b2-e538-4fd6-bc24-5d676a206534)
 
+Configure Help Topics:
 
