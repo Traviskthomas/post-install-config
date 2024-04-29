@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -39,7 +35,12 @@ Configure Roles:
 
 </p>
 <br />
+Configure Departments:
 
+![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/b3440822-65c8-4bfd-b90c-0621b61a3098)
+
+
+Configure Teams:
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
