@@ -52,4 +52,6 @@ Configure SLA:
 ![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/7d7f41b2-e538-4fd6-bc24-5d676a206534)
 
 Configure Help Topics:
+![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/586b9a45-bb26-4818-be3f-c4302df940f9)
+
 
