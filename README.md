@@ -46,5 +46,7 @@ Configure Teams:
 Configure Users/Agents:
 ![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/2343065d-48bc-41ab-b2f2-4dc6c2c2fef2)
 
-<p>
+Configure SLA:
+![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/7d7f41b2-e538-4fd6-bc24-5d676a206534)
+
 
