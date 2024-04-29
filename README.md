@@ -44,5 +44,7 @@ Configure Teams:
 ![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/6df4b8d6-cd26-4180-aec4-eea56428e889)
 
 Configure Users/Agents:
+![image](https://github.com/Traviskthomas/post-install-config/assets/166442537/2343065d-48bc-41ab-b2f2-4dc6c2c2fef2)
+
 <p>
 
